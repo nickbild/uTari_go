@@ -52,6 +52,8 @@ There wouldn't be much point in building a real Atari 2600 handheld if it couldn
 
 A **Sullins EBC12DRTH edge connector** provides the cartridge interface. It is mounted inside the case so cartridges can be inserted directly into the µTari Go.
 
+![](https://raw.githubusercontent.com/nickbild/uTari_go/refs/heads/main/media/cartridge_port_sm.jpg)
+
 ## Audio
 
 The Atari's audio output is fed into a **PAM8302 amplifier module**, which drives an **8-ohm speaker** mounted behind the grille in the back of the enclosure.
