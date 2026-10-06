@@ -1,6 +1,6 @@
 # µTari Go: A Handheld Atari 2600
 
-The **µTari Go** is a portable, handheld Atari 2600 built around my previous [**µTari**](https://github.com/nickbild/uTari) project. It plays original Atari 2600 cartridges using the original 6507 processor, TIA, and RIOT — no emulation and no FPGA.
+The **µTari Go** ((pronounced micro-Tari)) is a portable, handheld Atari 2600 built around my previous [**µTari**](https://github.com/nickbild/uTari) project. It plays original Atari 2600 cartridges using the original 6507 processor, TIA, and RIOT — no emulation and no FPGA.
 
 My original µTari project shrunk the Atari 2600 motherboard from roughly 9.75 × 5.25 inches down to just 4.7 × 3.5 inches. I designed it with a future handheld version in mind, replacing the bulky switches and connectors with smaller alternatives and removing the RF modulator in favor of a composite video output.
 
