@@ -16,6 +16,8 @@ At its core are the same three chips responsible for running an original console
 - **TIA** — Television Interface Adapter responsible for graphics and audio
 - **6532 RIOT** — RAM, I/O, and timer
 
+![](https://raw.githubusercontent.com/nickbild/uTari_go/refs/heads/main/media/hardware_sm.jpg)
+
 These chips are installed in my custom µTari PCB, which follows the original Atari 2600 circuit while eliminating hardware that isn't necessary for this application.
 
 The original RF modulator is gone, for example. Instead, µTari produces composite video using a much simpler circuit consisting of a transistor and two resistors. The giant switches and full-size controller and cartridge connectors were also removed from the PCB.
