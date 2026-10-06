@@ -10,6 +10,8 @@ My original ÂµTari project shrunk the Atari 2600 motherboard from roughly 9.75 Ã
 
 [Check out the YouTube video](https://www.youtube.com/watch?v=QAMx9kQR0u8)
 
+*This project is an independent creation and is not affiliated with, endorsed by, or sponsored by Atari.*
+
 ## Real Atari Hardware
 
 At its core are the same three chips responsible for running an original console:
