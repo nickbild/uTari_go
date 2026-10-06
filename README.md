@@ -88,6 +88,16 @@ Everything is packaged inside a custom [3D-printed case](https://github.com/nick
 - 4 x M2 10mm (2 for the DC jack clamp; 2 for the cartridge connector)
 - 6 x M2 30mm (Joining the front and rear shells)
 
+## Media
+
+![](https://raw.githubusercontent.com/nickbild/uTari_go/refs/heads/main/media/console_off_sm.jpg)
+
+![](https://raw.githubusercontent.com/nickbild/uTari_go/refs/heads/main/media/console_on_sm.jpg)
+
+![](https://raw.githubusercontent.com/nickbild/uTari_go/refs/heads/main/media/console_on_close_sm.jpg)
+
+![](https://raw.githubusercontent.com/nickbild/uTari_go/refs/heads/main/media/console_on_mid_sm.jpg)
+
 ## About the Author
 
 [Nick A. Bild, MS](https://nickbild79.firebaseapp.com/#!/)
