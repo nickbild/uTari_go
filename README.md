@@ -26,7 +26,7 @@ The original RF modulator is gone, for example. Instead, µTari produces composi
 
 ## Adding a CRT
 
-A real Atari deserves a CRT. µTari Go uses a **4-inch flat CRT display** mounted directly inside the enclosure. Composite video from the µTari connects to the display, so there isn't any digital video conversion between the Atari hardware and the screen.
+A real Atari deserves a CRT.  µTari Go uses a **4-inch flat CRT display** mounted directly inside the enclosure. Composite video from the µTari connects to the display, so there isn't any digital video conversion between the Atari hardware and the screen.
 
 Of course, putting a CRT into a handheld makes the device considerably larger than something built around a modern LCD, but it's worth it for me. The display technology is much closer to what an Atari 2600 would have originally been connected to.
 
