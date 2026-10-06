@@ -8,6 +8,8 @@ My original µTari project shrunk the Atari 2600 motherboard from roughly 9.75 �
 
 µTari Go is that handheld. It combines the µTari board with a 4-inch CRT, built-in controls, speaker, audio amplifier, cartridge slot, and power circuitry inside a custom 3D-printed enclosure. It is a complete Atari 2600 that you can hold in your hands.
 
+[Check out the YouTube video](https://www.youtube.com/watch?v=QAMx9kQR0u8)
+
 ## Real Atari Hardware
 
 At its core are the same three chips responsible for running an original console:
