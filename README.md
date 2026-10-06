@@ -64,7 +64,7 @@ The power hardware is mounted inside the rear shell, with a 3D-printed clamp sec
 
 ## 3D-Printed Enclosure
 
-Everything is packaged inside a custom 3D-printed case consisting of front and rear shells along with the internal mounting hardware.
+Everything is packaged inside a custom [3D-printed case](https://github.com/nickbild/uTari_go/tree/main/models) consisting of front and rear shells along with the internal mounting hardware.
 
 ## Bill of Materials
 
